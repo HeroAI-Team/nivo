@@ -15,6 +15,7 @@
     "name": "Raphaël Benitte",
     "url": "https://github.com/plouc"
   },
+  "version": "v0.67.1"
   "keywords": [],
   "devDependencies": {
     "@babel/core": "^7.10.3",
